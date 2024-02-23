@@ -101,6 +101,6 @@ Open your web browser and navigate to the application URL to verify the successf
 ## Additional Notes
 
 - Customize configuration files and environment variables in the scripts based on your application's requirements.
-- For any issues or questions, refer to the documentation or contact the project maintainers.
+- For any issues or questions, contact the project maintainers.
 
 Happy Deploying!
